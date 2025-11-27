@@ -5,8 +5,6 @@ date: 2025-11-27
 
 ---
 
-# Kavya Prasad
-
 Welcome to my science blog. I share work at the intersection of biomedical research, data science, and product development.
 
 ## About me
