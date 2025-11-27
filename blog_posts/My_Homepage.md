@@ -17,7 +17,7 @@ I enjoy turning research questions into practical tools and solutions.
 ## Find me online
 
 - LinkedIn: [Kavya Prasad](www.linkedin.com/in/kavya-prasad-29b152b3)
-- ResearchGate: [YOUR RESEARCHGATE NAME](https://www.researchgate.net/profile/Kavya-Prasad-4)
+- ResearchGate: [Kavya Prasad](https://www.researchgate.net/profile/Kavya-Prasad-4)
 - GitHub: [KavyaPrasad1995](https://github.com/KavyaPrasad1995)
 
 ## Publications
