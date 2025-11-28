@@ -2,5 +2,4 @@ title: "Kavya Prasad - Science Blog"
 description: "Research, data, and product development insights for healthcare and biotech."
 author: "Kavya Prasad"
 remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins: - jekyll-remote-theme # add this line to the plugins list if you already have one
